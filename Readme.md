@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Михаил Смирнов](https://up.htmlacademy.ru/javascript/18/user/854509).
-* Наставник: `Неизвестно`.
+* Наставник: [Ольга Поликашина] &#127799;(https://htmlacademy.ru/profile/id890283).
 
 ---
 
